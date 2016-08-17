@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CursorType</key>
+	<integer>0</integer>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
+	YXNzI0AoAAAAAAAAEBCAAoADXEhhY2stUmVndWxhctITFBUWWiRjbGFzc25hbWVYJGNs
+	YXNzZXNWTlNGb250ohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SA
+	AQgRGiMtMjc8QktSW2JpcnR2eIWKlZ6lqLHDxssAAAAAAAABAQAAAAAAAAAcAAAAAAAA
+	AAAAAAAAAAAAzQ==
+	</data>
+	<key>FontWidthSpacing</key>
+	<real>1</real>
+	<key>ProfileCurrentVersion</key>
+	<real>2.04</real>
+	<key>name</key>
+	<string>Custom</string>
+	<key>shellExitAction</key>
+	<integer>0</integer>
+	<key>type</key>
+	<string>Window Settings</string>
+</dict>
+</plist>
